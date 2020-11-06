@@ -1,0 +1,13 @@
+{
+    "name": "dgonzal6/syscount",
+    "authors": [
+        {
+            "name": "David Gonzalez Gonzalez",
+            "email": "david.gonzalez-gonzalez@capgemini.com"
+        }
+    ],
+    "require": {
+        "mashape/unirest-php": "^3.0",
+        "phpmailer/phpmailer": "^6.0"
+    }
+}
